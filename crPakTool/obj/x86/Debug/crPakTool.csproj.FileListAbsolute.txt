@@ -1,0 +1,13 @@
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\crPakTool.exe
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\crPakTool.pdb
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.Form1.resources
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.Properties.Resources.resources
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.csproj.GenerateResource.Cache
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.exe
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.pdb
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.csprojResolveAssemblyReference.cache
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\Ionic.Zlib.dll
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\obj\x86\Debug\crPakTool.STRGeditor.resources
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\EndianLib.dll
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\ObjectNames\882FB3767C72A431
+C:\Users\Jelle\Dropbox\VSProjects\crPakTool\crPakTool\bin\Debug\ObjectNames\2717894DAA3CD7EF
